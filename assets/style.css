@@ -1,0 +1,23 @@
+
+body{
+    font-weight: 500;
+}
+
+#footer{
+    /* position: absolute; */
+    bottom: -100px;
+}
+
+#kh{
+    margin-left: 20px;
+}
+
+
+#link{
+    font-size: 16px;
+
+}
+
+#profilePic{
+
+}
