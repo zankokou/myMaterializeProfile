@@ -1,7 +1,7 @@
 
 body{
     font-weight: 500;
-    background-image: url('../assets/lightpaperfibers.png')
+    background-image: url('../assets/greysquares.png')
 }
 
 #footer{
@@ -14,11 +14,20 @@ body{
 }
 
 
-#link{
-    font-size: 16px;
-
+.link{
+    margin-right:12px;
+    
 }
 
+#copy{
+    margin-top: 5px;
+    font-size: 16px;
+    padding: 0px;
+}
+
+.click{
+    margin-top: -5px;;
+}
 
 h2{
     font-family: 'Pacifico', cursive;
@@ -29,4 +38,8 @@ h2{
 #drop{
     padding-top: 3px;
     height: 57px;
+}
+
+#row1{
+    border-bottom: 10px solid #616161;
 }
