@@ -12,6 +12,11 @@ body {
     font-weight: 700;
 }
 
+.projecto{
+    font-weight: 700;
+    margin:0px 0px 25px 0px;
+}
+
 .fa-bars{
     max-height: 40px;
 }
